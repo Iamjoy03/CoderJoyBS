@@ -1,0 +1,7 @@
+to launch the link in new tab use:
+      <a href="https://www.google.com" target="_blank">this is google</a>    
+to add textarea in form
+      <textarea name="mytext" cols="10" rows="10"></textarea>
+to add label in form
+       <label for="name">name</label>
+<input type="text" name="your name" id="name">
