@@ -1,0 +1,43 @@
+body{
+    scroll-behavior: smooth;
+    position: relative;
+}
+
+.homesec{
+    margin-top: 69px;
+}
+/* Make the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+.aboutsec{
+    background-color: #4328bbcc;
+    color: cornsilk;
+}
+.aboutsec p{
+    text-align: center;
+    margin-top: 10px;
+}
+.aboutsec img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+footer{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    height: 40px;
+    background-color: #01010e;
+    color: ghostwhite;
+}
+.headtext{
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+.servitem{
+    margin: auto;
+}
